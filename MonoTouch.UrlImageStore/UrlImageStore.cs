@@ -242,7 +242,7 @@ namespace MonoTouch.UrlImageStore
 					
 					if (data == null)
 					{
-						Console.WriteLine ("UrlImageStore: No data for Cogenta URL: " + url);
+						Console.WriteLine ("UrlImageStore: No data for URL: " + url);
 						return;
 					}
 					
