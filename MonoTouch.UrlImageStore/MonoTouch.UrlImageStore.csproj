@@ -39,7 +39,4 @@
   <ItemGroup>
     <Compile Include="UrlImageStore.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="README.md" />
-  </ItemGroup>
 </Project>
